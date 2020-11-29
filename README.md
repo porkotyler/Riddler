@@ -2,7 +2,7 @@
 
 ## A Python Game Of Riddles
 
-Riddler is a revolutionary game of riddles that only lets you solve one riddle about (SPOILER ALERT!) darkness and that’s it! I made it using Python just so I could practice user inputs. You can fork it and make it more complex if you want it’s up to you.
+Riddler is a revolutionary game of riddles that only lets you solve one riddle about (SPOILER ALERT!) darkness and that’s it! I made it using Python just so I could practice loops and user inputs. You can fork it and make it more complex if you want it’s up to you.
  
 
 ## Getting Started
